@@ -29,12 +29,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: TT_RTS_Buildings_mat
-    second: {fileID: 2100000, guid: f7ac582c4167a99428f699188e40be29, type: 2}
+    second: {fileID: 2100000, guid: ee90f878377271b4fbbf915249f24476, type: 2}
   materials:
     materialImportMode: 1
     materialName: 1
     materialSearch: 0
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -64,7 +64,7 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    useSRGBMaterialColor: 1
+    useSRGBMaterialColor: 0
     sortHierarchyByName: 1
     importVisibility: 0
     importBlendShapes: 0
